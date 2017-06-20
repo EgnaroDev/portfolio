@@ -1,0 +1,81 @@
+body {
+  text-align: center;
+  color: white;
+    background-image: url("https://s30.postimg.org/5i1qso5pd/geo-shapes-black-1280b.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  font-family: 'Overpass', sans-serif;
+}
+.title {
+  font-size: 350%;
+}
+a {
+  color: white;
+  text-decoration: none;
+}
+.thumbnail {
+  text-align: right;
+  margin-right: 1%;
+  opacity: 0.8;
+}
+.thumbnail1 {
+  width: 50vw;
+  height: auto;
+  text-align: left;
+}
+.img {
+  height: 8%;
+  width: 8%;
+  border-radius: 50%;
+  margin-top: 150px;
+}
+.about {
+  text-align: center;
+  width: 50vw;
+}
+div {
+margin-bottom: 1%;
+}
+.ex {
+  margin-top: 3%;
+}
+.p {
+  height: 45%;
+  width: 45%;
+}
+.pie {
+  text-align: right;
+}
+.align-left {
+  text-align: left;
+}
+.align-right {
+  text-align: right;
+  margin-top: -30%;
+}
+.tributep {
+  width: 15vw;
+  height: 20vh;
+}
+.project {
+  white-space: nowrap;
+}
+.aimg {
+  opacity: 0.8;
+}
+dt {
+  text-align: center;
+}
+.dt {
+  text-align: center;
+}
+#home {
+  margin-top: 100px;
+}
+.bl {
+  color: gray;
+}
+button {
+  opacity: 0.8;
+}
